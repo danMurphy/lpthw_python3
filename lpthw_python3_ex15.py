@@ -22,3 +22,5 @@ txt_again = open(file_again)
 
 #printing the contents again of the filei
 print(txt_again.read())
+
+print(txt_again.close())
